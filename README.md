@@ -4,7 +4,7 @@
 
 # Problem Statement
 
-#### Our project aims to see if machine learning algorithms can accurately predict for cardiovascular disease and tell us what are the factors that contribute most to the presence.
+### Our project aims to see if machine learning algorithms can accurately predict for cardiovascular disease and tell us what are the factors that contribute most to the presence of cardiovascular disease.
 
 #### The dataset that we used was [this](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
