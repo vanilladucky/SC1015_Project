@@ -6,7 +6,7 @@
 
 ### Our project aims to see if machine learning algorithms can accurately predict for cardiovascular disease and tell us what are the factors that contribute most to the presence.
 
-### The dataset that we used was (this)['https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset']
+### The dataset that we used was [this]('https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset')
 
 # Data Preparation
 
